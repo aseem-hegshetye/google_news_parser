@@ -1,4 +1,4 @@
-google_news_parser
+<h1>google_news_parser</h1>
 
 Django, DjangoRestFramework, Sqlite3, Vuejs, Axios, css, html, js.
 
@@ -27,7 +27,7 @@ You can run test to make sure the API is working:
 ---
 --- 
 <div >
-<p>Homepage</p>
+<h4>Homepage</h4>
 <img src="https://raw.githubusercontent.com/aseem-hegshetye/google_news_parser/main/images/homepage.png" alt=""
     width="1000">
 </div>
