@@ -26,3 +26,8 @@ You can run test to make sure the API is working:
 
 ---
 --- 
+<div >
+<p>Homepage</p>
+<img src="https://raw.githubusercontent.com/aseem-hegshetye/google_news_parser/main/images/homepage.png" alt=""
+    width="1000">
+</div>
