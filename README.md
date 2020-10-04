@@ -12,7 +12,7 @@ To run this project:
 * Clone this repository into your local machine
 * cd into that repo
 * creates a virtual env named venv using python3.8 
-  * `python38 -m venv venv`
+  * `python3.8 -m venv venv`
 * Active the venv:
   * `source venv/bin/activate`
 * Install all requirements in our newly created venv:
