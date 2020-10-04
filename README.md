@@ -11,14 +11,14 @@ To run this project:
 
 * Clone this repository into your local machine
 * cd into that repo
-* python38 -m venv venv 
-  *  creates a virtual env named venv using python3.8
+* creates a virtual env named venv using python3.8 
+  * `python38 -m venv venv`
 * Active the venv:
-  * source venv/bin/activate
+  * `source venv/bin/activate`
 * Install all requirements in our newly created venv:
-  * pip install -r requirements.txt
-* python manage.py migrate
-* python manage.py runserver
+  * `pip install -r requirements.txt`
+* `python manage.py migrate`
+* `python manage.py runserver`
 
 You can run test to make sure the API is working:
 
